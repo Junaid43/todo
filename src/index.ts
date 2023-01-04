@@ -1,7 +1,6 @@
+#! /usr/bin/env node
+
 import inquirer from 'inquirer';
-import { exit } from 'process';
-
-
 
 async function startCalculationAgain(){
 
